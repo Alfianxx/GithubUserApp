@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="company">Company:</string>
+    <string name="location">Location:</string>
+    <string name="welcome_to_github_app">WELCOME TO GITHUB APP</string>
+    <string name="search">Search</string>
+    <string name="search_hint">search someone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_home">Search Someone in Github</string>
+    <string name="image_anonymous">image anonymous</string>
+    <string name="logo_app">logo app</string>
+    <string name="key_reminder">switch_reminder</string>
+</resources>
